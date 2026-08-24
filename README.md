@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🎓 3rd Year Computer Science & Engineering Student<br>💻 Interested in Web Development, AI/ML & Software Development<br>🚀 Building real-world projects and exploring innovative solutions<br>🌱 Currently improving my coding and problem-solving skills<br>🏆 Interested in Hackathons, Internships & Open-Source Projects<br><br><br>
+<br><br>🎓 Computer Science & Engineering Student<br>💻 Interested in Web Development, AI/ML & Software Development<br>🚀 Building real-world projects and exploring innovative solutions<br>🌱 Currently improving my coding and problem-solving skills<br>🏆 Interested in Hackathons, Internships & Open-Source Projects<br><br><br>
 
 
 ## 🌐 Socials:
